@@ -12,7 +12,7 @@ O **Classifier Algorithm** é um simulador interativo de algoritmos de ordenaç�
 ## 📂 Estrutura do Projeto
 
 ```
-sorting-visualizer/
+Classifier Algorithm/
 │── 📂 public/
 │── 📂 src/
 │   ├── 📂 components/
